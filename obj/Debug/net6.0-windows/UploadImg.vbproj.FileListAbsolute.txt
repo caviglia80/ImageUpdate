@@ -1,0 +1,17 @@
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\bin\Debug\net6.0-windows\UploadImg.exe
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\bin\Debug\net6.0-windows\UploadImg.deps.json
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\bin\Debug\net6.0-windows\UploadImg.runtimeconfig.json
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\bin\Debug\net6.0-windows\UploadImg.dll
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\bin\Debug\net6.0-windows\UploadImg.pdb
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\obj\Debug\net6.0-windows\UploadImg.vbproj.AssemblyReference.cache
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\obj\Debug\net6.0-windows\UploadImg.Form1.resources
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\obj\Debug\net6.0-windows\UploadImg.vbproj.GenerateResource.cache
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\obj\Debug\net6.0-windows\UploadImg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\obj\Debug\net6.0-windows\UploadImg.AssemblyInfoInputs.cache
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\obj\Debug\net6.0-windows\UploadImg.AssemblyInfo.vb
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\obj\Debug\net6.0-windows\UploadImg.vbproj.CoreCompileInputs.cache
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\obj\Debug\net6.0-windows\UploadImg.dll
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\obj\Debug\net6.0-windows\refint\UploadImg.dll
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\obj\Debug\net6.0-windows\UploadImg.pdb
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\obj\Debug\net6.0-windows\UploadImg.genruntimeconfig.cache
+C:\Users\cavig\OneDrive\Escritorio\UploadImg\obj\Debug\net6.0-windows\ref\UploadImg.dll
