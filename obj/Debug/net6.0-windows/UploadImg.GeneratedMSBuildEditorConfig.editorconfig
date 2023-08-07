@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UploadImg
-build_property.ProjectDir = C:\Users\cavig\OneDrive\Escritorio\PIP\UploadImg\
+build_property.ProjectDir = C:\GitHub\ImageUpdate\

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cavig\\OneDrive\\Escritorio\\PIP\\UploadImg\\UploadImg.vbproj": {}
+    "C:\\GitHub\\ImageUpdate\\UploadImg.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\cavig\\OneDrive\\Escritorio\\PIP\\UploadImg\\UploadImg.vbproj": {
+    "C:\\GitHub\\ImageUpdate\\UploadImg.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cavig\\OneDrive\\Escritorio\\PIP\\UploadImg\\UploadImg.vbproj",
+        "projectUniqueName": "C:\\GitHub\\ImageUpdate\\UploadImg.vbproj",
         "projectName": "UploadImg",
-        "projectPath": "C:\\Users\\cavig\\OneDrive\\Escritorio\\PIP\\UploadImg\\UploadImg.vbproj",
+        "projectPath": "C:\\GitHub\\ImageUpdate\\UploadImg.vbproj",
         "packagesPath": "C:\\Users\\cavig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cavig\\OneDrive\\Escritorio\\PIP\\UploadImg\\obj\\",
+        "outputPath": "C:\\GitHub\\ImageUpdate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cavig\\AppData\\Roaming\\NuGet\\NuGet.Config",
